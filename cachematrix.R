@@ -1,6 +1,6 @@
 ## Functions to cache the inverse of a matrix. 
-## Goal, save time by providing able to cache the inverse of a matrix since 
-## computing it can be costly.
+## Goal: save time by providing functions able to cache the inverse of a matrix. 
+## Reasons: computing matrix inverse can be costly.
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
